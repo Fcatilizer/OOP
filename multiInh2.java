@@ -18,7 +18,7 @@ class AnimalVehicle implements Animal,Dog
         System.out.println("driving...");
     }
 }
-void multiInh2()
+class multiInh2()
 {
     public static void main(String args[])
     {
