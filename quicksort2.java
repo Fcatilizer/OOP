@@ -1,4 +1,4 @@
-class quicksort2 {
+class A {
     void quickSort(int a[], int first, int last) {
         if (first < last) {
             int pivot = first;
