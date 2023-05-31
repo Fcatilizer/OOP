@@ -3,11 +3,11 @@ import java.util.*;
 class volume
 {
     int l,b,h;
-    volume()
+    void volume()
     {
         System.out.println("volume of rectangle: "+l*b*h);
     }
-    volume(int x)
+    void volume(int x)
     {
         System.out.println("volume of cuboid: "+x*x*x);
     }
